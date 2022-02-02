@@ -1,0 +1,3 @@
+load sample1.jpg
+pattern
+save sample1_pattern.txt

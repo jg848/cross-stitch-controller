@@ -1,0 +1,3 @@
+load sample1.jpg
+greyscale
+save sample1_greyscale.jpg

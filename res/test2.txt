@@ -1,0 +1,35 @@
+load sample2.jpg
+blur
+save sample2_blur.jpg
+
+load sample2.jpg
+sharpen
+save sample2_sharpen.jpg
+
+load sample2.jpg
+greyscale
+save sample2_greyscale.jpg
+
+load sample2.jpg
+sepia
+save sample2_sepiatone.jpg
+
+load sample2.jpg
+colordither 8
+save sample2_colordither.jpg
+
+load sample2.jpg
+greyscaledither 8
+save sample2_greyscaledither.jpg
+
+load sample2.jpg
+mosaic 100
+save sample2_mosaic.jpg
+
+load sample2.jpg
+pixelate 100
+save sample2_pixelate.jpg
+
+load sample2.jpg
+pattern
+save sample2_pattern.txt

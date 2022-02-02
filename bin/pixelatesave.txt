@@ -1,0 +1,3 @@
+load sample1.jpg
+pixelate 100
+save sample1_pixelate.jpg

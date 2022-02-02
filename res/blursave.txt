@@ -1,0 +1,3 @@
+load sample1.jpg
+blur
+save sample1_blur.jpg
